@@ -1,0 +1,15 @@
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\bin\Debug\net7.0\POOOOOOOOO.exe
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\bin\Debug\net7.0\POOOOOOOOO.deps.json
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\bin\Debug\net7.0\POOOOOOOOO.runtimeconfig.json
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\bin\Debug\net7.0\POOOOOOOOO.dll
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\bin\Debug\net7.0\POOOOOOOOO.pdb
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.csproj.AssemblyReference.cache
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.AssemblyInfoInputs.cache
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.AssemblyInfo.cs
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.csproj.CoreCompileInputs.cache
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.dll
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\refint\POOOOOOOOO.dll
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.pdb
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\POOOOOOOOO.genruntimeconfig.cache
+C:\Users\Slend Centeno\Desktop\Programacion orientada a objetos\POOOOOOOOO\POOOOOOOOO\obj\Debug\net7.0\ref\POOOOOOOOO.dll
